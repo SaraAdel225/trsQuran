@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/trsquran/static/css/main.ab7b6f76.css",
+    "main.js": "/trsquran/static/js/main.acb7050f.js",
+    "static/js/787.24b97b86.chunk.js": "/trsquran/static/js/787.24b97b86.chunk.js",
+    "static/media/goal.gif": "/trsquran/static/media/goal.187114bdf615b31f8381.gif",
+    "static/media/join.gif": "/trsquran/static/media/join.5cb449b7ff2b1bf69ac4.gif",
+    "static/media/Gif Studies.gif": "/trsquran/static/media/Gif Studies.bace85df4851d6be095d.gif",
+    "static/media/Mosque Illustration.png": "/trsquran/static/media/Mosque Illustration.ad22dc8207b5286c31f5.png",
+    "static/media/logo.png": "/trsquran/static/media/logo.3972e7a53ecfba86bfd0.png",
+    "static/media/logoNotBG.png": "/trsquran/static/media/logoNotBG.4c9cd749e77ada757842.png",
+    "static/media/man.jfif": "/trsquran/static/media/man.8bee557324d1d134411c.jfif",
+    "static/media/Loader Animation.gif": "/trsquran/static/media/Loader Animation.ef47b6faa02add524eec.gif",
+    "static/media/ReadingQuran.jfif": "/trsquran/static/media/ReadingQuran.ee7424739d62615f74bb.jfif",
+    "static/media/services.jpg": "/trsquran/static/media/services.bfe0a2931d9a3a7d17bf.jpg",
+    "static/media/woman.jfif": "/trsquran/static/media/woman.92e5295f996ec1d5e45f.jfif",
+    "static/media/definition.png": "/trsquran/static/media/definition.842f648a39d78aedefd6.png",
+    "index.html": "/trsquran/index.html",
+    "main.ab7b6f76.css.map": "/trsquran/static/css/main.ab7b6f76.css.map",
+    "main.acb7050f.js.map": "/trsquran/static/js/main.acb7050f.js.map",
+    "787.24b97b86.chunk.js.map": "/trsquran/static/js/787.24b97b86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab7b6f76.css",
+    "static/js/main.acb7050f.js"
+  ]
+}
