@@ -1,0 +1,31 @@
+.about{
+    background-color: #f4f4f4;
+    position: relative;
+}
+.about .title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.about .title .bookImg{
+    width: 100px;
+}
+.about .title .word{
+    color: var(--main_color);
+}
+.about .container .aboutImg{
+    width: 500px;
+}
+.about .container h4{
+    width: 500px;
+    color:var(--main_color)
+}
+@media (max-width: 680px) {
+    .about .container .aboutImg{
+        width: 300px;
+        background-color: white;
+    }
+    .about .container h4{
+        width: 300px;
+    }
+}

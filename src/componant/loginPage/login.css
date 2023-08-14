@@ -1,0 +1,38 @@
+
+.login {
+    margin-top: 50px;
+    background-color: #f7f7f7;
+    overflow: hidden;
+}
+.login  .title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login .title .bookImg{
+    width: 150px;
+}
+.login  .title .word{
+    color: var(--main_color);
+    text-align: end;
+}
+.loginCont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.loginCont .branch{
+    margin-left: 20px;
+    margin-right: 50px;
+}
+.loginCont img{
+    width: 160px;
+}
+@media (max-width:910px){
+    .loginCont .branch{
+        margin: 0px;
+    }
+    .loginCont img{
+        width: 150px;
+    }
+}
