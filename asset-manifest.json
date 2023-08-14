@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/trsquran/static/css/main.ab7b6f76.css",
+    "main.css": "/trsquran/static/css/main.a9912ae9.css",
     "main.js": "/trsquran/static/js/main.acb7050f.js",
     "static/js/787.24b97b86.chunk.js": "/trsquran/static/js/787.24b97b86.chunk.js",
     "static/media/goal.gif": "/trsquran/static/media/goal.187114bdf615b31f8381.gif",
@@ -16,12 +16,12 @@
     "static/media/woman.jfif": "/trsquran/static/media/woman.92e5295f996ec1d5e45f.jfif",
     "static/media/definition.png": "/trsquran/static/media/definition.842f648a39d78aedefd6.png",
     "index.html": "/trsquran/index.html",
-    "main.ab7b6f76.css.map": "/trsquran/static/css/main.ab7b6f76.css.map",
+    "main.a9912ae9.css.map": "/trsquran/static/css/main.a9912ae9.css.map",
     "main.acb7050f.js.map": "/trsquran/static/js/main.acb7050f.js.map",
     "787.24b97b86.chunk.js.map": "/trsquran/static/js/787.24b97b86.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab7b6f76.css",
+    "static/css/main.a9912ae9.css",
     "static/js/main.acb7050f.js"
   ]
 }
